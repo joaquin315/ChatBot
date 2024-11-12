@@ -94,4 +94,3 @@ def main(): #Función principal
 #Indicamos que nuestra función principal es main()
 if __name__ == "__main__":
     main()
-main()
